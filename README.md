@@ -1,1 +1,3 @@
-# studytestcode
+### Testcode공부를 위한 저장소입니다.
+- 클린 코드를 위한 테스트 주도 개발
+
